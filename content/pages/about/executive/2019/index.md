@@ -10,7 +10,7 @@ page_order: 1
 
 ## Nominations for Deputy Chair
 
-### Patricia Mergen
+### [Patricia Mergen](https://orcid.org/0000-0003-2848-8231)
 
 Meise Botanic Garden and Africamuseum Tervuren, Belgium
 
@@ -24,7 +24,7 @@ In my PhD I applied Numerical Ecology, modelling and statistics. I am currently 
 
 As deputy chair and subsequently chair of TDWG, I will together with the executive committee and TDWG members, aim at having TDWG’s position reinforced and made more visible in the international biodiversity landscape. Notably the collaboration with GBIF, CETAF, DiSSCo, and other infrastructures will be continued and enhanced. New markets and users for TDWG standards will be identified. The process of ratification of standards will be continuously enhanced and speeded up to broaden the user base and the number of TDWG standards implemented by the communities. With my background and experience in fund raising and project management, I will also contribute to the mobilization of funds for TDWG and for example help with the access to European opportunities via its new European TDWG based branch.
 
-### Abby Benson
+### [Abby Benson](https://orcid.org/0000-0002-4391-107X)
 
 United States Geological Survey, Colorado, United States
 
@@ -111,3 +111,18 @@ Major research field is biodiversity informatics, focused on key technique and m
 - Have the responsibility to represent the interests of TDWG members from Asia on the Executive Committee; 
 - Have the responsibility to represent the interests of colleagues in biodiversity informatics from Asia in TDWG.
 - Represent TDWG in appropriate meetings and other activities;
+
+## Nominations for North America representative
+
+### [Annie Simpson](https://orcid.org/0000-0001-8338-5134)
+
+US Geological Survey: Reston, VA, United States
+
+#### Curriculum Vitae
+
+I’ve been active in TDWG since 2002, when I attended an invasive species symposium at the annual meeting in Indaiatuba, Brazil. My interest in the TDWG organization has always been based on our need to make highly technical information consistent and reusable, yet accessible (and understandable) to non-developers. I have a Master’s degree in Entomology and one in Library Science, and I have been working on the development of invasive species information standards since 2004, when the Global Invasive Species Information Network was formed. We worked closely with TDWG experts to create an Invasive Species Interest Group and to begin to develop six schemas for sharing data. My current work is in dataset recruitment for the USGS Biodiversity Information Serving Our Nation ([BISON](https://bison.usgs.gov/)) species occurrence mapping application, and among other things I clean datasets for their inclusion in BISON. A side project that I have led which is coming to fruition is the development of the first comprehensive non-native species list for Alaska, Hawaii, and the 48 conterminous United States. I have attended ten TDWG conferences to date, served on the conference organizing committee for the Bratislava meeting in 2007, and I have confidence TDWG is continuing on the right path to improving the development of biodiversity information standards.
+
+#### Vision
+
+Over the next two years I look forward to becoming part of an Executive Team that continues to facilitate the development global biodiversity information standards in a collaborative and effective way. I believe the Executive’s areas of emphasis should be as follows: developing a better means to become financially independent as an organization; recruiting youth as our future leaders of biodiversity standards development; encouraging broader global participation and diversity of membership; improving our efforts in training on biodiversity information data sharing and standards use; and improving partner organization development for mutually beneficial collaborative work, training, and conferences.
+
